@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bùi Huy",
+    "email": "buihuy@gmail.com",
+    "num": "0328584803",
+    "address": "Thái Bình"
+  },
+  {
+    "id": 2,
+    "name": "Bùi Hu",
+    "email": "buihu@gmail.com",
+    "num": "0328582803",
+    "address": "Hà Nội"
+  },
+  {
+    "id": 3,
+    "name": "Bùi Hy",
+    "email": "buihy@gmail.com",
+    "num": "0328581803",
+    "address": "Hòa Bình"
+  }
+]
